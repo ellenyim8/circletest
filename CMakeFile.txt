@@ -1,0 +1,5 @@
+target_precompile_headers(NAME_OF_EXECUTABLE
+	PUBLIC
+		<math.h>
+)
+

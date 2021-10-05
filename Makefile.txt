@@ -1,0 +1,3 @@
+CircleTest: test.cpp Circle.cpp
+	g++ -o CircleTest test.cpp Circle.cpp
+

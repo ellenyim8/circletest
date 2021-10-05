@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-6/root/usr/bin/c++    -rdynamic CMakeFiles/CircleTest.dir/test.cpp.o CMakeFiles/CircleTest.dir/Circle.cpp.o  -o CircleTest  lib/libgtest.a -lpthread 
