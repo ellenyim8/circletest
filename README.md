@@ -1,4 +1,4 @@
 # circletest
 
-**CS 100** <\br>
+**CS 100** <br>
 participation-01 assignment
